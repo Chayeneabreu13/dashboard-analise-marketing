@@ -73,14 +73,6 @@ Análise dos padrões de compra por localização, permitindo comparar o comport
 
 ---
 
-## 📁 Estrutura do Projeto
-
-- `dashboard-marketing.pbix` — Projeto Power BI.
-- `imagens/` — Imagens das quatro visualizações.
-- `README.md` — Documentação do projeto.
-
----
-
 ## 👩‍💻 Autoria
 
 **Chayene de Abreu Manoel**
@@ -89,6 +81,4 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 Desenvolvendo conhecimentos em Análise de Dados, Desenvolvimento de Software e Business Intelligence.
 
-**GitHub:** [Chayeneabreu13](https://github.com/Chayeneabreu13)
 
-**LinkedIn:** Adicionar link do perfil
