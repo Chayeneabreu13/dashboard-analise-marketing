@@ -22,7 +22,7 @@ Explorar informações relacionadas aos clientes e às estratégias de marketing
 
 Análise do perfil dos consumidores, considerando características como escolaridade, estado civil, localização e comportamento de compra.
 
-![Visão do Cliente](imagens/visao-cliente.png)
+![Visão do Cliente](imagens/visao-cliente.png.jpeg)
 
 ---
 
@@ -30,7 +30,7 @@ Análise do perfil dos consumidores, considerando características como escolari
 
 Exploração dos hábitos de consumo e dos canais utilizados pelos clientes, permitindo observar diferenças no comportamento de compra.
 
-![Comportamento de Compra](imagens/comportamento-compra.png)
+![Comportamento de Compra](imagens/comportamento-compra.png.jpeg)
 
 ---
 
@@ -38,7 +38,7 @@ Exploração dos hábitos de consumo e dos canais utilizados pelos clientes, per
 
 Análise do desempenho das campanhas de marketing, com foco na avaliação dos resultados e na identificação de oportunidades de melhoria.
 
-![Performance das Campanhas](imagens/performance-campanhas.png)
+![Performance das Campanhas](imagens/performance-campanhas.png.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ Análise do desempenho das campanhas de marketing, com foco na avaliação dos r
 
 Análise dos padrões de compra por localização, permitindo comparar o comportamento dos consumidores entre diferentes países.
 
-![Padrões de Compra](imagens/padroes-compra.png)
+![Padrões de Compra](imagens/padroes-compra.png.jpeg)
 
 ---
 
